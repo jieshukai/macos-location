@@ -14,7 +14,7 @@
             ]
           }
         }, {
-          "type": "none"  // 非macOS平台不编译此目标
+          "type": "none"
         }]
       ]
     }
